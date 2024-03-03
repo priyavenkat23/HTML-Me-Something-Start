@@ -1,1 +1,31 @@
 /* Write your CSS here! */
+
+/* Paragraph id and class*/
+.funParagraph {
+    background-color: green;
+  }
+  #testP {
+    background-color: white;
+  }
+
+  /*Heading Id*/
+  
+  #mainHeading {
+    background-color: red;
+
+  }
+
+  body {
+    margin: 8px;
+    display: block;
+  }
+
+  #articleBorder {
+    border: black 2px solid;
+    background-color: gray;
+  }
+
+  table, th, td {
+    border: 1px solid;
+  }
+ 
